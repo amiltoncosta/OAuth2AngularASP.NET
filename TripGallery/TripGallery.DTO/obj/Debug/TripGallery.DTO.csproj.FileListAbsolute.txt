@@ -1,5 +1,4 @@
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.DTO\bin\Debug\TripGallery.DTO.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.DTO\bin\Debug\TripGallery.DTO.pdb
-C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.DTO\obj\Debug\TripGallery.DTO.csprojResolveAssemblyReference.cache
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.DTO\obj\Debug\TripGallery.DTO.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.DTO\obj\Debug\TripGallery.DTO.pdb

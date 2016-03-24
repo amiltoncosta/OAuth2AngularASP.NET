@@ -3,6 +3,7 @@ C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\Trip
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\TripGallery.MVCClient.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\TripGallery.MVCClient.pdb
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\Antlr3.Runtime.dll
+C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\IdentityModel.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\Marvin.JsonPatch.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\Microsoft.Owin.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\Microsoft.Owin.Host.SystemWeb.dll
@@ -21,6 +22,7 @@ C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\Trip
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\WebGrease.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\TripGallery.Constants.pdb
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\TripGallery.DTO.pdb
+C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\IdentityModel.pdb
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\Microsoft.Owin.xml
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\Newtonsoft.Json.xml
@@ -35,5 +37,3 @@ C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\Trip
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\obj\Debug\TripGallery.MVCClient.csprojResolveAssemblyReference.cache
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\obj\Debug\TripGallery.MVCClient.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\obj\Debug\TripGallery.MVCClient.pdb
-C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\IdentityModel.dll
-C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.MVCClient\bin\IdentityModel.pdb

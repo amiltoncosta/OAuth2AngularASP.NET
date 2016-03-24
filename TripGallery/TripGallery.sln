@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripGallery.Repository", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripGallery.MVCClient", "TripGallery.MVCClient\TripGallery.MVCClient.csproj", "{AD6E3942-4BF6-4B12-9BCC-9F5ACAE5DCD6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{923708D6-F776-4759-8912-89C554261242}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{313D51C3-E626-4E7E-8E46-03CA227CAAD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{8133B4A3-6883-4C9D-B26F-404A259FD960}"
+EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TripGallery.AngularClient", "TripGallery.AngularClient\", "{4AA9545B-9657-457C-BD84-4DF829DDF4D8}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
@@ -35,12 +41,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TripGallery.AngularClient",
 		VWDPort = "51045"
 		SlnRelativePath = "TripGallery.AngularClient\"
 	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{923708D6-F776-4759-8912-89C554261242}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{313D51C3-E626-4E7E-8E46-03CA227CAAD9}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{8133B4A3-6883-4C9D-B26F-404A259FD960}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
