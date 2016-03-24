@@ -1,0 +1,4 @@
+C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.dll
+C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.pdb
+C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.dll
+C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.pdb
