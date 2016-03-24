@@ -6,3 +6,12 @@ C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\Trip
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\bin\Debug\Newtonsoft.Json.xml
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.dll
 C:\Projeto\Git\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.pdb
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.csprojResolveAssemblyReference.cache
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\bin\Debug\TripGallery.Repository.dll
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\bin\Debug\TripGallery.Repository.pdb
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\bin\Debug\Microsoft.Owin.FileSystems.dll
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\bin\Debug\Microsoft.Owin.FileSystems.xml
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.dll
+D:\Amilton\PluralSight\OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\TripGallery\TripGallery.Repository\obj\Debug\TripGallery.Repository.pdb
